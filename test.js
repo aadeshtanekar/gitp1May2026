@@ -1,1 +1,1 @@
-console.log("js file commit")
+console.log("js file commit");
