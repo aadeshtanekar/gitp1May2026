@@ -1,1 +1,2 @@
 this is my 1st git file
+this is change i m doing directly into master form git itself
